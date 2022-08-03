@@ -14,8 +14,11 @@ public class WildCardDemo {
 		
 		printList(i);
 		printList(d);
+
 		
 		
+
+
 		 
 	}
 	
