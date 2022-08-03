@@ -12,11 +12,13 @@ public class WildCardDemo {
 
 		List<Double> d=Arrays.asList(1.2,4.5,85.2,6.4,44.44);  
 		
+		printList(i);
+		printList(d);
 		 
 	}
 	public static void printList(List<?> list)
 	{
-		System.out.println();
+		System.out.println(list);
 	}
 
 }
